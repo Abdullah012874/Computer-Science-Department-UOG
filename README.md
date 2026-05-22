@@ -16,18 +16,6 @@ This project demonstrates:
 
 ---
 
-## ⚙ Project Structure
-
-### 🖥 Frontend Folder Structure
-![Frontend Folder Structure](./images/frontend-structure.png)
-### 🧠 Backend Folder Structure
-![Backend Folder Structure](./images/backend-structure.png)
-### DashBoard Picture
-![DashBoard Picture](./images/dashboard.png)
-### DashBoard Picture
-![HomePage Picture](./images/HomePage.png)
-
----
 ## 🚀 Setup Instructions
 
 ### Clone the Repository
